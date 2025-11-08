@@ -1,7 +1,7 @@
 look away ts ugly pls
 
 <p align="center">
-  <img src="" width="800" height="800%"/>
+  <img src="https://64.media.tumblr.com/13c7e4aa6d1979fc53cf920a432825c8/a85b1810354a4187-06/s400x600/95cb63ed04bab48ff7891a806a55f8e4ead51d81.gifv" width="600" height="600%"/>
 </p>
  <br>
 
@@ -15,6 +15,5 @@ look away ts ugly pls
    <b> who's online ? </b>
  <br>
 <p align="center">
-  <img src="" width="800" height="800%"/>
+  <img src="https://64.media.tumblr.com/13c7e4aa6d1979fc53cf920a432825c8/a85b1810354a4187-06/s400x600/95cb63ed04bab48ff7891a806a55f8e4ead51d81.gifv" width="600" height="600%"/>
 </p>
- <br>
