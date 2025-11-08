@@ -3,8 +3,8 @@
 </p>
  <br>
 
-<p align="center">   ${\textsf{\color{#9b9ab0} LYRㅤLYRㅤLYR }}$
+<p align="center">   ${\textsf{\color{#9b9ab0} LYRㅤLYRㅤLYR }}$ </p> 
 
 <p align="right">
-  <img src="https://i.ibb.co/8SR34hg/beg.png" width="800" height="800%"/>
+  <img src="https://i.ibb.co/8SR34hg/beg.png"/>
 </p>
