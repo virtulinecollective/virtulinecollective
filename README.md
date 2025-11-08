@@ -3,10 +3,10 @@
 </p>
  <br>
 
-<p align="center">   ${\textsf{\color{#9b9ab0} LYRㅤLYRㅤLYR }}$ </p> 
+<p align="center">   ${\textsf{\color{#9b9ab0} I’MㅤGONNAㅤEMBRACEㅤYOUㅤAGAINㅤANDㅤAGAINㅤ! }}$ </p> 
 
 <p align="right">
-  <img src="https://i.ibb.co/8SR34hg/beg.png" width="300" height="300%" />
+  <img src="https://i.ibb.co/GvQQ1GWC/lala.png" width="300" height="300%" />
 </p>
 
 
